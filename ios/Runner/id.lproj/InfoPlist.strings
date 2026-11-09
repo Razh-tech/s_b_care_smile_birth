@@ -1,0 +1,2 @@
+NSCameraUsageDescription = "Izinkan SBCare mengakses kamera Anda?";
+NSPhotoLibraryUsageDescription = "Izinkan SBCare mengakses foto dan media Anda?";

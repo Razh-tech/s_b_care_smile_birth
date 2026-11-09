@@ -1,0 +1,9 @@
+{
+  "branchLinkDomain": "sbcare.app.link",
+"branchKey": "key_live_gBtaFj1Wj0b1L97S5k7wgepnAqdBXfzl",
+"branchAlternateLinkDomain": "sbcare-alternate.app.link",
+"isTestMode": false,
+"sbcareLinkDomain": "https://sbcare.co.id/",
+"sbcareAlternateLinkDomain": "https://sbcare-smilebirth.flutterflow.app/",
+"androidLinkDomain": "https://sbcare.app.link/"
+}

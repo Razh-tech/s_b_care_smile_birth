@@ -1,0 +1,2 @@
+NSCameraUsageDescription = "Allow SBCare to access your camera?";
+NSPhotoLibraryUsageDescription = "Allow SBCare to access your photos and media?";
